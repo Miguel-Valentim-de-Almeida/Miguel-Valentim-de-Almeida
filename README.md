@@ -2,9 +2,9 @@
 
 # 💫 Sobre mim: 
 - 🎓 Estou cursando Ciência da Computação na UENP
-- 🌱 Aprendizado constante
 - 💻 Estudando programação (HTML, CSS, JS, C, Python)
-- 💼 Sou estagiário geral na SetupJr
+- 💼 Sou estagiário geral pela SetupJr
+- 🌱 Aprendizado constante
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-valentim-de-almeida-71b6a4271/)
